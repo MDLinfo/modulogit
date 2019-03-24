@@ -1,3 +1,3 @@
-Meu primeiro projeto com .GIT
+Meu primeiro projeto com .GIThub
 
 Alteracao final master
